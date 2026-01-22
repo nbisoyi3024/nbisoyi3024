@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @nbisoyi3024
-- 👀 Python & Machine Learning enthusiast with hands-on experience in EDA, model building, and real-world projects. Passionate about data-driven problem solving and continuous learning.
-- 🌱 I’m currently learning Python, R,SQL,Tableau
-- 💞️ I’m looking to collaborate on Data analysis projects
+- 👋 Hello, I am Niharika
+- 👀 Python & Machine Learning enthusiast building end-to-end projects in data preprocessing, modeling, and evaluation.
+- 🌱 I’m currently looking for opportunities where I can utilize my skills.
 - 📫 How to reach me ...my email id niharikabisoyi28@gmail.com
-
-
