@@ -5,7 +5,7 @@
 
 #### About Me
 
-Hi, I’m Niharika Bisoyi — an aspiring Data Scientist and Machine Learning Engineer with hands-on experience building end-to-end ML projects.
+Hi, I am Niharika Bisoyi — an aspiring Data Scientist and Machine Learning Engineer with hands-on experience building end-to-end ML projects.
 
 I enjoy working with data to uncover insights, build predictive models, and create applications that solve real-world problems.
 
