@@ -8,7 +8,7 @@
 
 ---
 
-### Live Projects — Try Them Now
+#### Live Projects — Try Them Now
 
 | Project | Live Demo |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-### What I Build
+#### What I Build
 
 - **Generative AI systems** — RAG pipelines, multi-agent workflows (LangChain & LangGraph), LLM-powered apps
 - **Machine Learning pipelines** — end-to-end, from data cleaning to deployment
@@ -26,7 +26,7 @@
 
 ---
 
-### Skills & Tools
+#### Skills & Tools
 
 **Languages:** Python, SQL
 
@@ -42,7 +42,7 @@
 
 ---
 
-### Featured Projects
+#### Featured Projects
 
 #### AI Customer Review Intelligence System
 *Live API that analyzes customer reviews in real time using AI*
@@ -76,7 +76,7 @@ Improved recall from 49% to 75% by identifying and fixing a class imbalance prob
 
 ---
 
-### Used Car Price Prediction
+#### Used Car Price Prediction
 *Estimating resale prices from car details*
 
 Achieved 83% R² using LightGBM after cleaning messy data — fixing extreme price outliers, missing values, and a highly skewed target variable. Trained model now loads from Google Cloud Storage at runtime. Deployed with Streamlit.
@@ -85,7 +85,7 @@ Achieved 83% R² using LightGBM after cleaning messy data — fixing extreme pri
 
 ---
 
-### What I'm Working On Next
+#### What I'm Working On Next
 
 - Adding streaming responses and automated LLM evaluation (RAGAS) to my GenAI projects
 - Expanding cloud skills with BigQuery and Vertex AI
