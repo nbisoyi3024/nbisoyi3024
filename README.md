@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Niharika Bisoyi
+### 👋 Hi, I am Niharika Bisoyi
 
 **AI Engineer building production-deployed Generative AI and Machine Learning systems.**
 
